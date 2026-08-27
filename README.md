@@ -71,7 +71,7 @@ I am a highly adaptive, solution-driven software engineer specializing in buildi
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/vemula-raghava143)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Email](https://shields.io)](mailto:vraghava08@gmail.com)
 
 *📍 Located in Vijayawada, India*
